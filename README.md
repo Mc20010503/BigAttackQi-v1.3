@@ -1,9 +1,11 @@
-#史上最叼的DDOS攻击器 :tw-1f51e:
+# ![](https://github.githubassets.com/images/icons/emoji/unicode/1f449.png) 史上最叼的DDOS攻击器
 
 
 
 
-### 一秒打出5个T的流量 :tw-1f305: 瞬间瓦解对方网站 :tw-1f43a:
+
+
+### 一秒打出5个T的流量 ![](https://github.githubassets.com/images/icons/emoji/unicode/1f449.png) 瞬间瓦解对方网站
 
 #### 友情提示：低于500G/s的攻击不要用！
 
