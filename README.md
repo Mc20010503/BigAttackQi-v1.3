@@ -13,4 +13,4 @@
 
 ![狗头蔑视](https://raw.githubusercontent.com/cyhx2017/Blog/master/images/doge.png "狗头蔑视")
 
-❤ 学习专用，以上内容纯属虚构。
+❤ 不好意思，提交的时候喝多酒了。。。。。。。
